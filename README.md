@@ -1,6 +1,6 @@
 # DSS (Decision Support System) TOPSIS
 
-Decision Support System atau dalam bahasa Indonesia disebut Sistem Pendukung Keputusan adalah sebuah sistem yang membantu dalam pengambilan keputusan dengan menggunakan metode tertentu, seperti contoh pada repository ini menggunakan metode TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
+Decision Support System atau dalam bahasa Indonesia disebut Sistem Pendukung Keputusan adalah sebuah sistem yang membantu managerial dalam pengambilan keputusan dengan menggunakan metode tertentu, seperti contoh pada repository ini menggunakan metode TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
 
 **System Requirement:**
  - PHP version 7.1 or greater
