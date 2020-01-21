@@ -1,0 +1,25 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+$route['default_controller'] = 'Desa';
+$route['404_override'] = '';
+$route['translate_uri_dashes'] = FALSE;
+$route['home/login']='Desa/plogin';
+$route['home/logout']='Desa/lgout';
+$route['home/menu']='Admin/menu';
+$route['home/menu/(:num)']='Desa/menu/$1';
+$route['home/cpwd']='Admin/ubahpwd';
+$route['home/ppwd']='Admin/prosespwd';
+$route['home/upalt']='Desa/upalter';
+$route['home/upkritera']='Desa/upkri';
+$route['home/palter']='Desa/plusalter';
+$route['home/nialt']='Desa/upalterni';
+$route['home/plkr']='Desa/pluskri';
+$route['wowmodal/(:any)']='Admin/getmodal/$1';
+$route['users']='Usermanager/index';
+$route['userjson']='Usermanager/listuser';
+$route['useredit/(:any)']='Usermanager/edituser/$1';
+$route['history']='Admin/histo';
+$route['logout']='Desa/lgout';
+$route['user/home']='User/menu';
+$route['setting']='Admin/setting';
+$route['user/foto/(:num)']="User/ubahfoto/$1";
