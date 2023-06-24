@@ -3,7 +3,7 @@
 Decision Support System atau dalam bahasa Indonesia disebut Sistem Pendukung Keputusan adalah sebuah sistem yang membantu managerial dalam pengambilan keputusan dengan menggunakan metode tertentu, seperti contoh pada repository ini menggunakan metode TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
 
 **System Requirement:**
- - PHP version 7.1 or greater
+ - PHP version 7.4
  - MySQL 5.7 or greater
  - Apache 2.4 or greater
  
