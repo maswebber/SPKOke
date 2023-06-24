@@ -4,7 +4,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; <?=date("Y")?> <a href="https://maswebber.com">Maswebber.com</a>.</strong> All rights
+    <strong>Copyright &copy; <?=date("Y")?> <a href="https://github.com/maswebber">Maswebber</a>.</strong> All rights
     reserved.
   </footer>
 </div>
@@ -37,17 +37,7 @@
 </script>
 <!-- Bootstrap 3.3.7 -->
 <script src="<?=base_url('assets/')?>bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<!-- Morris.js charts -->
-<script src="<?=base_url('assets/')?>bower_components/raphael/raphael.min.js"></script>
-<!-- Sparkline -->
-<script src="<?=base_url('assets/')?>bower_components/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
-<!-- jvectormap -->
-<script src="<?=base_url('assets/')?>plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-<script src="<?=base_url('assets/')?>plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
-<!-- jQuery Knob Chart -->
-<script src="<?=base_url('assets/')?>bower_components/jquery-knob/dist/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
-<script src="<?=base_url('assets/')?>bower_components/moment/min/moment.min.js"></script>
 <script src="<?=base_url('assets/')?>bower_components/bootstrap-daterangepicker/daterangepicker.js"></script>
 <!-- datepicker -->
 <script src="<?=base_url('assets/')?>bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
